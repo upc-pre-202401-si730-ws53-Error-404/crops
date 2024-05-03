@@ -94,7 +94,8 @@
       "description": "Lemon is a type of citrus fruit. The fruit, juice, and peel are used to make medicine. Lemon is used to treat scurvy, a condition caused by not having enough vitamin C. Lemon is also used for the common cold and flu, H1N1 (swine) flu, ringing in the ears (tinnitus), Meniere's disease, and kidney stones.",
       "type_name": "Fruit"
     },
-        "phenological_phase": "Germination"
+        "phenological_phase": "Germination",
+        "controls":[ ]
     },
     {
       "id": 4,
@@ -108,7 +109,8 @@
       "image": "",
       "description": "Rice is the seed of the grass species Oryza sativa (Asian rice) or less commonly Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia and Africa. It is the agricultural commodity with the third-highest worldwide production (rice, 741.5 million tonnes in 2014), after sugarcane (1.9 billion tonnes) and maize (1.0 billion tonnes).",
       "type_name": "Cereal" },
-      "phenological_phase": "Germination"
+      "phenological_phase": "Germination",
+        "controls":[ ]
     },
     {
       "id": 5,
@@ -125,21 +127,8 @@
       "description": "Lemon is a type of citrus fruit. The fruit, juice, and peel are used to make medicine. Lemon is used to treat scurvy, a condition caused by not having enough vitamin C. Lemon is also used for the common cold and flu, H1N1 (swine) flu, ringing in the ears (tinnitus), Meniere's disease, and kidney stones.",
       "type_name": "Fruit"
     },
-        "phenological_phase": "Germination"
-    },
-    {
-      "id": 6,
-      "start_date": "2024-09-19",
-      "harvest_date": "2024-12-19",
-      "area_land": 200,
-      "user_id": 1,
-      "crop_id": 2,
-      "crop_name": "Rice",
-         "crop_info": { "name": "Rice",
-      "image": "",
-      "description": "Rice is the seed of the grass species Oryza sativa (Asian rice) or less commonly Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia and Africa. It is the agricultural commodity with the third-highest worldwide production (rice, 741.5 million tonnes in 2014), after sugarcane (1.9 billion tonnes) and maize (1.0 billion tonnes).",
-      "type_name": "Cereal" },
-      "phenological_phase": "Germination"
+        "phenological_phase": "Germination",
+        "controls":[ ]
     }
   ],
   "crops": [
@@ -244,12 +233,6 @@
       "name": "Rice blast",
       "description": "Fungal disease that causes lesions on rice leaves, stems and panicles. It can cause significant crop losses.",
       "solution": "Fungicides can help control rice blast. Dosage and application recommendations provided by agricultural experts or local authorities should be followed."
-    },
-    {
-      "id": 5,
-      "name": "Rice sheath blight",
-      "description": "Fungal disease that causes lesions on rice leaves and stems. It can cause significant crop losses.",
-      "solution": "Fungicides can help control rice sheath blight. Dosage and application recommendations provided by agricultural experts or local authorities should be followed."
     }
   ],
   "products": [
@@ -305,30 +288,6 @@
       "id": 7,
       "sowing_id": 2,
       "date": "2024-08-25",
-      "type": "Pesticide",
-      "name": "Beta-Baytroide",
-      "quantity": "20 kg"
-    },
-    {
-      "id": 8,
-      "sowing_id": 2,
-      "date": "2024-09-05",
-      "type": "Fungicide",
-      "name": "Antracol",
-      "quantity": "2 L"
-    },
-    {
-      "id": 9,
-      "sowing_id": 2,
-      "date": "2024-10-15",
-      "type": "Fertilizer",
-      "name": "Aminofol Plus",
-      "quantity": "10 kg"
-    },
-    {
-      "id": 10,
-      "sowing_id": 2,
-      "date": "2024-10-25",
       "type": "Pesticide",
       "name": "Beta-Baytroide",
       "quantity": "20 kg"
