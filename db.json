@@ -7,6 +7,13 @@
         "user_id": 1,
         "crop_id": 1,
         "crop_name": "Lemon",
+           "crop_info": {
+      "id": 1,
+      "name": "Lemon",
+      "image": "",
+      "description": "Lemon is a type of citrus fruit. The fruit, juice, and peel are used to make medicine. Lemon is used to treat scurvy, a condition caused by not having enough vitamin C. Lemon is also used for the common cold and flu, H1N1 (swine) flu, ringing in the ears (tinnitus), Meniere's disease, and kidney stones.",
+      "type_name": "Fruit"
+    },
         "phenological_phase": "Germination",
         "controls": [
             {
@@ -40,6 +47,10 @@
       "user_id": 1,
       "crop_id": 2,
       "crop_name": "Rice",
+        "crop_info": { "name": "Rice",
+      "image": "",
+      "description": "Rice is the seed of the grass species Oryza sativa (Asian rice) or less commonly Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia and Africa. It is the agricultural commodity with the third-highest worldwide production (rice, 741.5 million tonnes in 2014), after sugarcane (1.9 billion tonnes) and maize (1.0 billion tonnes).",
+      "type_name": "Cereal" },
       "phenological_phase": "Germination",
       "controls":[ 
         {
@@ -76,6 +87,13 @@
         "user_id": 1,
         "crop_id": 1,
         "crop_name": "Lemon",
+           "crop_info": {
+      "id": 1,
+      "name": "Lemon",
+      "image": "",
+      "description": "Lemon is a type of citrus fruit. The fruit, juice, and peel are used to make medicine. Lemon is used to treat scurvy, a condition caused by not having enough vitamin C. Lemon is also used for the common cold and flu, H1N1 (swine) flu, ringing in the ears (tinnitus), Meniere's disease, and kidney stones.",
+      "type_name": "Fruit"
+    },
         "phenological_phase": "Germination"
     },
     {
@@ -86,6 +104,10 @@
       "user_id": 1,
       "crop_id": 2,
       "crop_name": "Rice",
+         "crop_info": { "name": "Rice",
+      "image": "",
+      "description": "Rice is the seed of the grass species Oryza sativa (Asian rice) or less commonly Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia and Africa. It is the agricultural commodity with the third-highest worldwide production (rice, 741.5 million tonnes in 2014), after sugarcane (1.9 billion tonnes) and maize (1.0 billion tonnes).",
+      "type_name": "Cereal" },
       "phenological_phase": "Germination"
     },
     {
@@ -96,6 +118,13 @@
       "user_id": 1,
       "crop_id": 1,
       "crop_name": "Lemon",
+        "crop_info": {
+      "id": 1,
+      "name": "Lemon",
+      "image": "",
+      "description": "Lemon is a type of citrus fruit. The fruit, juice, and peel are used to make medicine. Lemon is used to treat scurvy, a condition caused by not having enough vitamin C. Lemon is also used for the common cold and flu, H1N1 (swine) flu, ringing in the ears (tinnitus), Meniere's disease, and kidney stones.",
+      "type_name": "Fruit"
+    },
         "phenological_phase": "Germination"
     },
     {
@@ -106,6 +135,10 @@
       "user_id": 1,
       "crop_id": 2,
       "crop_name": "Rice",
+         "crop_info": { "name": "Rice",
+      "image": "",
+      "description": "Rice is the seed of the grass species Oryza sativa (Asian rice) or less commonly Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia and Africa. It is the agricultural commodity with the third-highest worldwide production (rice, 741.5 million tonnes in 2014), after sugarcane (1.9 billion tonnes) and maize (1.0 billion tonnes).",
+      "type_name": "Cereal" },
       "phenological_phase": "Germination"
     }
   ],
