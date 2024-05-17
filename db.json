@@ -5,7 +5,7 @@
         "harvest_date": "2024-10-19",
         "area_land": 500,
         "user_id": 1,
-        "crop_id": 1,
+        "crop_id": 2,
         "crop_name": "Lemon",
            "crop_info": {
       "id": 1,
@@ -45,7 +45,7 @@
         "harvest_date": "2024-10-19",
         "area_land": 1000,
         "user_id": 1,
-        "crop_id": 1,
+        "crop_id": 2,
         "crop_name": "Lemon",
            "crop_info": {
       "id": 1,
@@ -63,7 +63,7 @@
       "harvest_date": "2024-10-19",
       "area_land": 1200,
       "user_id": 1,
-      "crop_id": 2,
+      "crop_id": 1,
       "crop_name": "Rice",
          "crop_info": { "name": "Rice",
       "image": "",
@@ -78,7 +78,7 @@
       "harvest_date": "2024-10-19",
       "area_land": 1500,
       "user_id": 1,
-      "crop_id": 1,
+      "crop_id": 2,
       "crop_name": "Lemon",
         "crop_info": {
       "id": 1,
@@ -179,21 +179,21 @@
     },
     {
       "id": 2,
-      "crop_id": 1,
+      "crop_id": 2,
       "name": "Rice beetle",
       "description": "This beetle feeds on stored rice grains, causing significant damage to warehouses and silos.",
       "solution": "In cases of severe infestations, it may be necessary to resort to the use of pesticides. Dosage and application recommendations provided by agricultural experts or local authorities should be followed."
     },
     {
       "id": 3,
-      "crop_id": 1,
+      "crop_id": 2,
       "name": "Rice Moth",
       "description": "The larvae of this moth feed on rice leaves and stems, creating galleries and causing considerable crop damage.",
       "solution": "In cases of severe infestations, specific insecticides may be applied. Dosage and application recommendations provided by agricultural experts or local authorities should be followed."
     },
     {
       "id": 4,
-      "crop_id": 1,
+      "crop_id": 2,
       "name": "Rice blast",
       "description": "Fungal disease that causes lesions on rice leaves, stems and panicles. It can cause significant crop losses.",
       "solution": "Fungicides can help control rice blast. Dosage and application recommendations provided by agricultural experts or local authorities should be followed."
