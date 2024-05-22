@@ -179,7 +179,7 @@
     },
     {
       "id": 2,
-      "crop_id": 1,
+      "crop_id": 2,
       "name": "Rice beetle",
       "description": "This beetle feeds on stored rice grains, causing significant damage to warehouses and silos.",
       "solution": "In cases of severe infestations, it may be necessary to resort to the use of pesticides. Dosage and application recommendations provided by agricultural experts or local authorities should be followed."
